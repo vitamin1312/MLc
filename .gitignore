@@ -3,6 +3,29 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# media files
+*.mp4
+*.jpeg
+*.jpg
+*.png
+*gif
+*.rar
+*.zip
+*.Identifier
+*.txtgit
+*.pb
+*.index
+*.gz
+*.pth
+*.index
+*.data
+DeepLabV3Plus_352_augment
+
+# pycharm
+*.xml
+*.iml
+.idea
+
 # C extensions
 *.so
 
